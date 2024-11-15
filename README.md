@@ -1,2 +1,2 @@
-# studying-py
-since 2024 11 15
+# studying-py since 2024 11 15
+#2024-11-15 Githubに初めて投稿できた Pythonを勉強し始めたが難しい、でも面白い。頑張る！！！今日は制御構文まで。
